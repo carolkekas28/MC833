@@ -34,3 +34,33 @@ lab1/
 ├── imagem3.jpg
 └── README.md
 ```
+
+### Execução
+
+Execute o servidor:
+
+```python
+python3 servidor.py
+```
+
+O servidor utiliza a porta 8000.
+
+Para testar na própria máquina, digite no navegador:
+
+```bash
+http://localhost:8000/index.html
+```
+
+Para acessar a partir de outra máquina na mesma rede, utilize o endereço IP da máquina que está executando o servidor:
+
+```bash
+http://<IP_DO_SERVIDOR>:8000/index.html
+```
+
+Por exemplo:
+
+```bash
+http://192.168.15.56:8000/index.html
+```
+
+Para encerrar o servidor, pressione `Ctrl+C`. 
