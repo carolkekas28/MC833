@@ -36,7 +36,7 @@ def atender_cliente(connectionSocket, addr):
         connectionSocket.sendall(outputdata)
 
         print(
-            f"[RESPOSTA DE {addr}]"
+            f"[RESPOSTA DE {addr}] "
             f"200 OK: {filename[1:]} enviado com sucesso."
         )
 
@@ -55,7 +55,7 @@ def atender_cliente(connectionSocket, addr):
         connectionSocket.send(resposta.encode('utf-8'))
 
         print(
-            f"[RESPOSTA DE {addr}]"
+            f"[RESPOSTA DE {addr}] "
             "404 Not Found: arquivo não encontrado."
         )
 

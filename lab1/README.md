@@ -27,7 +27,6 @@ Cada conexão aceita pelo servidor é atendida em uma thread separada, permitind
 lab1/
 ├── servidor.py
 ├── index.html
-├── pagina2.html
 ├── style.css
 ├── imagem1.jpg
 ├── imagem2.jpg
