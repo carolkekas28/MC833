@@ -1,5 +1,3 @@
-# IP local da minha máquina: 192.168.15.56
-
 # Import socket module
 from socket import *
 import sys
