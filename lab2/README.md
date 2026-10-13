@@ -147,12 +147,3 @@ Os logos são opcionais. Para exibi-los na capa, adicione:
 
 - `UNICAMP_logo.png`
 - `logo_instituto_de_computacao.png`
-
-Compile novamente caso apareçam referências ainda não resolvidas, como `[?]`.
-
-## Referências
-
-- [RFC 9293 — Transmission Control Protocol](https://www.rfc-editor.org/rfc/rfc9293.html)
-- [RFC 5681 — TCP Congestion Control](https://www.rfc-editor.org/rfc/rfc5681.html)
-- [RFC 768 — User Datagram Protocol](https://www.rfc-editor.org/rfc/rfc768.html)
-- [Documentação do Scapy](https://scapy.readthedocs.io/)
