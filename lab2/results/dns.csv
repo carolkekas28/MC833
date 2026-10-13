@@ -1,0 +1,4 @@
+domain,query_packet,response_packet,rtt_ms,client_ip,client_port,dns_ip,dns_port
+www.ic.unicamp.br,1,2,27.770042419433594,fe80::899:bf1:b02a:4547,64820,fe80::a633:d7ff:fe98:24f3,53
+www.cs.umass.edu,3,4,158.27488899230957,fe80::899:bf1:b02a:4547,50081,fe80::a633:d7ff:fe98:24f3,53
+www.u-tokyo.ac.jp,5,6,409.10911560058594,fe80::899:bf1:b02a:4547,64439,fe80::a633:d7ff:fe98:24f3,53

@@ -1,0 +1,13 @@
+field,udp_bytes,tcp_bytes
+Source port,2,2
+Destination port,2,2
+Length,2,0
+Checksum,2,2
+Sequence number,0,4
+Acknowledgement number,0,4
+Data offset,0,0.5
+Reserved,0,0.375
+Flags,0,1.125
+Window,0,2
+Urgent pointer,0,2
+Options/padding,0,12
