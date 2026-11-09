@@ -1,0 +1,50 @@
+{
+  "trace_id": "200702101400",
+  "inicio_utc": "2007-02-10 05:00:00.690394+00:00",
+  "inicio_jst": "2007-02-10 14:00:00.690394+09:00",
+  "duracao_s": 900.33,
+  "pacotes": 14487390,
+  "bytes": 10612041008,
+  "vazao_media_mbps": 94.295,
+  "pacotes_por_tipo": {
+    "TCP": 12658426,
+    "UDP": 1401517,
+    "ICMP": 176897,
+    "Outro IP": 250547,
+    "Não IP": 3
+  },
+  "bytes_por_tipo": {
+    "TCP": 10312155390,
+    "UDP": 225697924,
+    "ICMP": 15836298,
+    "Outro IP": 58351216,
+    "Não IP": 180
+  },
+  "pacotes_ipv4": 14380725,
+  "pacotes_ipv6": 106662,
+  "fluxos_total": 890155,
+  "fluxos_no_arquivo": 890155,
+  "caplen_medio": 57.44,
+  "tamanho_medio": 732.5,
+  "snaplen": 96,
+  "linktype": 1,
+  "precisao_timestamp": "microssegundos",
+  "bin_ms": 10,
+  "recorte": {
+    "arquivo": "200702101400_recorte.pcap",
+    "pacotes": 170287,
+    "bytes": 12522516
+  },
+  "pacotes_na_amostra": 6523081,
+  "fracao_amostrada": 0.450259,
+  "arquivos": {
+    "serie_fina": "200702101400_serie_10ms.parquet",
+    "serie_1s": "200702101400_serie_1s.parquet",
+    "fluxos": "200702101400_fluxos.parquet",
+    "hist_fluxos": "200702101400_hist_fluxos.parquet",
+    "portas": "200702101400_portas.parquet",
+    "hist_tamanhos": "200702101400_hist_tamanhos.parquet",
+    "pacotes_amostra": "200702101400_pacotes_amostra.parquet",
+    "recorte_pcap": "200702101400_recorte.pcap"
+  }
+}
